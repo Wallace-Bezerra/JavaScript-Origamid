@@ -35,8 +35,9 @@ else if (minhaIdade === irmaoIdade) {
 }
 else {
     console.log("É menor!");
-}
 
+}
+console.log(`teste de string ${irmaoIdade}`)
 switch (irmaoIdade) {
     case irmaoIdade > minhaIdade:
         console.log("É maior");
