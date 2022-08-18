@@ -37,6 +37,7 @@ console.log("ultima fruta -------------")
 var ultimaFruta = frutas[frutas.length - 1];
 console.log(ultimaFruta);
 
+var primeiraFruta = frutas[0];
 //quadrado do numero
 alert("digite 5 numeros e obtenha o quadrado.");
 for (let i = 1; i <= 5; i++) {
